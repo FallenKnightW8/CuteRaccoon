@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31BFB0AD-9EEC-AB15-9711-0C20C67C2AB0}|Assembly-CSharp.csproj|g:\\unity\\cuteracoon\\cuteraccoon\\cracoon\\assets\\scipts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BFB0AD-9EEC-AB15-9711-0C20C67C2AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31BFB0AD-9EEC-AB15-9711-0C20C67C2AB0}|Assembly-CSharp.csproj|g:\\unity\\cuteracoon\\cuteraccoon\\cracoon\\assets\\scipts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31BFB0AD-9EEC-AB15-9711-0C20C67C2AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\Assets\\Scipts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\Menu.cs",
+              "ToolTip": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\Assets\\Scipts\\Menu.cs*",
+              "RelativeToolTip": "Assets\\Scipts\\Menu.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:16:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SaveGame.cs",
               "DocumentMoniker": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\Assets\\Scipts\\SaveGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scipts\\SaveGame.cs",

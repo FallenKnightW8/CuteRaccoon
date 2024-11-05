@@ -1,18 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.SearchService;
 using UnityEngine;
 
 public class Menu : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+     public void StartGame()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (PlayerPrefs.HasKey("SaveGame"))
+        {
+            
+        }
+        else
+        {
+            PlayerPrefs.SetInt("SaveGame", 0);
+        }
     }
 }
