@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BFB0AD-9EEC-AB15-9711-0C20C67C2AB0}|Assembly-CSharp.csproj|g:\\unity\\cuteracoon\\cuteraccoon\\cracoon\\assets\\scipts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BFB0AD-9EEC-AB15-9711-0C20C67C2AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\scipts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveGame.cs",
+              "DocumentMoniker": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\Assets\\Scipts\\SaveGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scipts\\SaveGame.cs",
+              "ToolTip": "G:\\Unity\\CuteRacoon\\CuteRaccoon\\CRacoon\\Assets\\Scipts\\SaveGame.cs",
+              "RelativeToolTip": "Assets\\Scipts\\SaveGame.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:57:52.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
