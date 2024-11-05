@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
@@ -9,7 +10,7 @@ public class Menu : MonoBehaviour
     {
         if (PlayerPrefs.HasKey("SaveGame"))
         {
-            
+            SceneManager.LoadScene("University");
         }
         else
         {
